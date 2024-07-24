@@ -72,8 +72,7 @@ public partial class PlayerController : CharacterBody2D
 				isClimbing = false;
 				canClimb = false;
 				climbTimer = climbTimerReset;
-				//kuy
-			}
+				}
 		}
 
 		Velocity = velocity;
